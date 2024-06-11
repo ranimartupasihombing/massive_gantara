@@ -1,0 +1,41 @@
+/* src/pages/Dashboard.css */
+.dashboard_admin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.cards-container_admin {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.card_admin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 150px;
+    background-color: #f90;
+    color: white;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.icon_admin {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.text_admin {
+    font-size: 1.2em;
+}

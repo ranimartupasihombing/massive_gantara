@@ -1,0 +1,211 @@
+.login-admin {
+    font-family: "Inter", sans-serif;
+    position: absolute;
+    top: 83px;
+    left: 71px;
+    font-weight: 600;
+  }
+  
+  .login-dashboard-admin-admin {
+    position: absolute;
+    top: 267px;
+    left: 71px;
+    font-size: 36px;
+  }
+  
+  .dashboard-admin {
+    font-family: "Inter", sans-serif;
+    position: absolute;
+    top: 160px;
+    left: 72px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #9b9b9b;
+  }
+  
+  .admin-login-child-admin {
+    position: absolute;
+    top: 346.5px;
+    left: 44.5px;
+    border-top: 1px solid #9b9b9b;
+    box-sizing: border-box;
+    width: 1339px;
+    height: 1px;
+  }
+
+  .input-email-admin{
+    position: absolute;
+    top: 346.5px;
+    left: 44.5px;
+    border-top: 1px solid #9b9b9b;
+    box-sizing: border-box;
+    width: 1339px;
+    height: 1px;
+  }
+  
+  
+  .admin-admin {
+    position: absolute;
+    top: -198px;
+    left: -462px;
+    border-radius: 20px;
+    background-color: #fff;
+    width: 1390px;
+    height: 729px;
+  }
+  
+  .email-admin {
+    font-family: "Inter", sans-serif;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 552px;
+    height: 56px;
+  }
+  
+  .kata-sandi-admin {
+    font-family: "Inter", sans-serif;
+    position: absolute;
+    top: 136px;
+    left: 0px;
+    display: inline-block;
+    width: 552px;
+    height: 56px;
+  }
+  
+  .daftar-di-sini-admin {
+    position: absolute;
+    top: 452px;
+    left: 0px;
+    text-decoration: underline;
+    display: inline-block;
+    width: 552px;
+    height: 56px;
+  }
+  
+  .form-email-login-child-admin {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 60px;
+    background-color: #fff;
+    border: 1px solid #eb8a47;
+    box-sizing: border-box;
+    width: 644px;
+    height: 62px;
+  }
+  
+  .form-email-login-admin {
+    position: absolute;
+    top: 56px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 644px;
+    height: 62px;
+  }
+  
+  .form-password-login-child-admin {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 30px;
+    background-color: #fff;
+    border: 1px solid #eb8a47;
+    box-sizing: border-box;
+    width: 644px;
+    height: 62px;
+  }
+  
+  .form-password-login-admin {
+    position: absolute;
+    top: 192px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 644px;
+    height: 62px;
+  }
+  
+  .button-child-admin {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    width: 644px;
+    height: 96px;
+  }
+  
+  .masuk-admin {
+    font-family: "Inter", sans-serif;
+    color: white;
+    position: absolute;
+    top: 33px;
+    left: 154px;
+    display: inline-block;
+    width: 336px;
+    height: 30px;
+    cursor: pointer;
+  }
+  
+  .button-admin {
+    position: absolute;
+    top: 338px;
+    left: 0px;
+    background-color: #ff8c00;
+    width: 644px;
+    height: 96px;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+  }
+  
+  .photo-icon-admin {
+    position: absolute;
+    top: -19px;
+    left: -364px;
+    width: 277px;
+    height: 212px;
+    object-fit: cover;
+  }
+  
+  .login1-admin {
+    position: absolute;
+    top: 430px;
+    left: 489px;
+    width: 644px;
+    height: 508px;
+    text-align: left;
+    font-size: 32px;
+    color: #ff8c00;
+  }
+  
+  .admin-login-admin {
+    width: 100%;
+    position: relative;
+    background-color: #eee;
+    height: 1259px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 24px;
+    color: #000;
+    font-family: Inter;
+  }
+  
+  .pengertian-freelancer-1-icon-admin {
+    position: relative;
+    top: 430px;
+    right: 500px;
+    overflow: hidden;
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+  }
+
+  .form-verifikasi-child  {
+    margin-left: 20px;
+  }
+
+  

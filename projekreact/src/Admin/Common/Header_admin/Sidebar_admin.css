@@ -1,0 +1,61 @@
+/* src/Sidebar-admin.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar-admin {
+    width: 300px;
+    background-color: #ff8c00; /* Orange background */
+    color: white;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+.profile-admin {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profile-pic-admin {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.profile-info-admin h2 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.profile-info-admin p {
+    margin: 5px 0;
+    font-size: 1em;
+}
+
+.menu-admin {
+    margin-right: 30px;
+    width: 150px;
+    justify-content: center;
+    text-align: center;
+}
+
+.menu-item-admin {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #ffa500; /* Lighter orange for buttons */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.menu-item-admin:hover {
+    background-color: #ff7f00; /* Darker orange on hover */
+}
